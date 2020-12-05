@@ -6,7 +6,7 @@ passengers = {
  suite_e: "Crumpet the Elf"
  }
 
-def select_winner(passengers)
+#def select_winner(passengers)
   # add the code snippet here!
   winner = ""
 passengers.each do |suite, name|
